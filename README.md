@@ -4,6 +4,8 @@ A customizable SwiftUI component for collecting user effort ratings through an i
 
 ![Demo Video](assets/demo.gif)
 
+## Screenshots
+
 <div align="center">
   <img src="assets/ss1.png" width="250" />
   <img src="assets/ss2.png" width="250" />
